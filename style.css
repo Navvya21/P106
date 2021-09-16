@@ -1,0 +1,19 @@
+#sca {
+    background-color: brown;
+    color:white;
+}
+body{
+    background-color: burlywood;
+    color:white;
+}
+
+#button {
+    color: white;
+background-color: yellowgreen;
+height: 30px;
+width:70px;
+}
+#div{
+    text-align: center;
+    color: white;
+}
