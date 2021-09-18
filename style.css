@@ -1,19 +1,38 @@
-#sca {
-    background-color: brown;
-    color:white;
-}
 body{
-    background-color: burlywood;
-    color:white;
+    font-family: 'Special Elite', cursive;
+    background-color: #00203FFF;
+    color: white;
+}
+.header_div{
+background:white ;
+color: #00203FFF;
+}
+.header_div p{
+    color:gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color:#00203FFF;
+    background-color: white;
+line-height: 3;
+text-align: center;
+width: 100%;
+font-size: 18px;
+text-shadow: 5px 5px 5px gray;
 }
 
-#button {
-    color: white;
-background-color: yellowgreen;
-height: 30px;
-width:70px;
-}
-#div{
-    text-align: center;
-    color: white;
+button{
+    background-color: white;
+    color: #00203FFF;
 }
